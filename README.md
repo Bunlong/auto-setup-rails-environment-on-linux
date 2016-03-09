@@ -1,4 +1,4 @@
-# Take it easy to setup git, mysql, nginx, nvm, postgresql, wkhtml and rails on Ubuntu bye one command line:
+# Take it easy to setup git, mysql, nginx, nvm, postgresql, wkhtml and rails on Ubuntu by one command line:
 
 #### Run script below to change file mode into execution
 
